@@ -171,6 +171,7 @@ html {
   padding-top: 50%;
   background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
 }
+
 #slider .text-content {
   position: absolute;
   bottom: 47px;
@@ -182,7 +183,7 @@ html {
 }
 #slider .text-heading {
   font-weight: 500; /* giảm độ dày của chữ */
-  font-size: 24pxpx;
+  font-size: 24px;
 }
 #slider .text-descreption {
   font-size: 15px;
